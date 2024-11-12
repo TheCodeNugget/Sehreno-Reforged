@@ -1,0 +1,25 @@
+TerrainMaterial {
+ SpecularIBL 0.502 0.502 0.502 1
+ SurfaceProperties "{39B38A74AC043E40}Common/Materials/Game/Sand/sand_beach_grass.gamemat"
+ BCRMap "{713860613498B905}Terrains/Common/Surfaces/data/Sehreno_Sand_01_BCR.edds"
+ NHOMap "{560F2B2537DEFF12}Terrains/Common/Surfaces/data/Sehreno_Sand_01_NHO.edds"
+ ScaleUV 2
+ ParallaxScale 0.02
+ SatMapBlend 0.6
+ SatMapBrightness 0.35
+ LocalShadowBias 0.3
+ DetailMaxDistance 75
+ DetailBlendDistance 75
+ DebugColor 0.581 0.651 0.327 0
+ BCRMiddleMap "{1CBC2DFD4535180A}Terrains/Common/Surfaces/data/Sehreno_Sand_01_mid_BCR.edds"
+ NHOMiddleMap "{8BB579803DEA5C91}Terrains/Common/Surfaces/Data/Grass_01_Middle_NHO.edds"
+ MiddleNOBlend 0
+ MiddleNOPower 0.8
+ MiddleBCRBlend 0
+ PorosityScale 0.5
+ WaterAccumDetail 0.9
+ WaterAccumMiddle 0.7
+ WetnessFadeOverride 1
+ WetnessFadeStart 5
+ WetnessFadeSize 20
+}
