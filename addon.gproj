@@ -1,0 +1,8 @@
+GameProject {
+ ID "SehrenoReforged"
+ GUID "6246F920B9B47D61"
+ TITLE "Sehreno-Reforged"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
