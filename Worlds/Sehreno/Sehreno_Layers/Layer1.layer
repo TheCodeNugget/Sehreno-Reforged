@@ -1,0 +1,95 @@
+SplineShapeEntity {
+ coords 14311.942 39.818 10485.11
+ Points {
+  ShapePoint "{62E5381CB3880AC1}" {
+   Position 0 -0.004 0
+  }
+  ShapePoint "{62E5381CB3882A82}" {
+   Position 5 -1.392 0
+  }
+  ShapePoint "{62E5381CB2815559}" {
+   Position 34.542 0.285 -14.68
+  }
+  ShapePoint "{62E5381CB2AF6F2A}" {
+   Position 34.542 0.285 -14.68
+  }
+  ShapePoint "{62E5381CB273CA9E}" {
+   Position 70.938 -4.446 2.899
+  }
+  ShapePoint "{62E5381CB598FD57}" {
+   Position 71.146 -4.298 2.772
+  }
+  ShapePoint "{62E5381CB52D108F}" {
+   Position 114.531 -3.227 32.745
+  }
+  ShapePoint "{62E5381CB5392988}" {
+   Position 114.531 -3.227 32.745
+  }
+  ShapePoint "{62E5381CB4B862E1}" {
+   Position 70.542 -3.363 70.774
+  }
+  ShapePoint "{62E5381CB4CB1E1E}" {
+   Position 70.542 -3.363 70.774
+  }
+  ShapePoint "{62E5381CB74CB3E8}" {
+   Position 19.792 -2.147 99.537
+  }
+  ShapePoint "{62E5381CB7589CE9}" {
+   Position 19.794 -2.147 99.535
+  }
+  ShapePoint "{62E5381CB6E3BC55}" {
+   Position -30.259 -5.509 130.703
+  }
+  ShapePoint "{62E5381CB60EDD49}" {
+   Position -30.259 -5.509 130.703
+  }
+  ShapePoint "{62E5381CA947E967}" {
+   Position -105.954 -9.081 139.423
+  }
+  ShapePoint "{62E5381CA953EE46}" {
+   Position -105.954 -9.081 139.423
+  }
+  ShapePoint "{62E5381CA82ED630}" {
+   Position -154.86 -8.941 116.587
+  }
+  ShapePoint "{62E5381CA83A777E}" {
+   Position -154.86 -8.941 116.587
+  }
+  ShapePoint "{62E5381CAAE6B5D0}" {
+   Position -214.214 -11.087 132.503
+  }
+  ShapePoint "{62E5381CAAF0CB8E}" {
+   Position -214.212 -11.087 132.501
+  }
+  ShapePoint "{62E5381CAD840B04}" {
+   Position -263.422 -12.765 143.919
+  }
+  ShapePoint "{62E5381CAC86B0A9}" {
+   Position -274.915 -10.991 98.758
+  }
+  ShapePoint "{62E5381CAC91E47A}" {
+   Position -274.915 -10.991 98.758
+  }
+  ShapePoint "{62E5381CACF921A1}" {
+   Position -226.507 -8.344 58.753
+  }
+  ShapePoint "{62E5381CAC776B1B}" {
+   Position -192.896 -15.226 51.095
+  }
+  ShapePoint "{62E5381CAEE12246}" {
+   Position -135.749 -5.702 8.451
+  }
+  ShapePoint "{62E5381CA18B9C80}" {
+   Position -74.248 -4.871 5.042
+  }
+  ShapePoint "{62E5381CA08A2B1C}" {
+   Position -19.841 -2.731 6.358
+  }
+ }
+ IsClosed 1
+ {
+  LakeGeneratorEntity : "{FB8CA78AE56C4A0E}PrefabLibrary/Generators/Water/Lake/LG_Lake_01.et" {
+   coords 0 0 0
+  }
+ }
+}
