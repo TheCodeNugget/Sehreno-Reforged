@@ -3,7 +3,7 @@ TerrainMaterial {
  SurfaceProperties "{39B38A74AC043E40}Common/Materials/Game/Sand/sand_beach_grass.gamemat"
  BCRMap "{713860613498B905}Terrains/Common/Surfaces/data/Sehreno_Sand_01_BCR.edds"
  NHOMap "{560F2B2537DEFF12}Terrains/Common/Surfaces/data/Sehreno_Sand_01_NHO.edds"
- ScaleUV 2
+ ScaleUV 10
  ParallaxScale 0.02
  SatMapBlend 0.6
  SatMapBrightness 0.35
