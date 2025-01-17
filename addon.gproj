@@ -3,6 +3,20 @@ GameProject {
  GUID "6246F920B9B47D61"
  TITLE "Sehreno-Reforged"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "6462B2A69176FE6F"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
